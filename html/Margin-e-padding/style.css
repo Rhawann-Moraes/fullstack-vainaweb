@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: rgb(255, 175, 138);
+  height: 20px;
+  width: 200px;
+}/*# sourceMappingURL=style.css.map */
